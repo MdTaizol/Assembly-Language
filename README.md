@@ -1,6 +1,5 @@
 # Assembly-Language  
 
-# Assembly Language
 
 A small collection of x86 (8086/DOS) assembly language programs, written for MASM/TASM-style assemblers and run under DOS or a DOS emulator (e.g., DOSBox).
 
